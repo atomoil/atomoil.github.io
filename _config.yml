@@ -1,4 +1,3 @@
-name: Adam's notes
-title:       Adam's notes
+title:       Adam's <a href="/">notes</a>
 markdown: kramdown
 theme: jekyll-theme-minimal
