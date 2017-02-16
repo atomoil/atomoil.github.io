@@ -1,3 +1,4 @@
-title:       Adam's <a href="/">notes</a>
+title:       Adam's notes
+description: <a href="/">some notes that are useful to me, and might be useful to you.</a>
 markdown: kramdown
 theme: jekyll-theme-minimal
