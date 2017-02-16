@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      Jekyll for prototying
 date:       2015-01-20 12:00:00
 summary:    Putting together a site quickly to explore ideas.

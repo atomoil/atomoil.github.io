@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      iPhone Screen Sizes
 date:       2015-02-18 09:30:00
 summary:    A table of iPhone screen sizes in points and pixels

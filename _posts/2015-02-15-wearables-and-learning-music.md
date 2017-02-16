@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      Wearables and learning music
 date:       2015-02-04 12:00:00
 summary:    Could Smart Watches help with learning to play musical instruments?
