@@ -6,6 +6,8 @@ categories: wearables
 
 ---
 
+# Wearables and learning music
+
 I've been thinking about wearables recently, in particular smart watches. I've also been thinking about people learning to play musical instruments.
 
 It strikes me that if the sensors are good enough, a smart watch might be able to detect how well someone is playing an instrument such as a violin. This could be used to provide useful feedback as to how they are performing, how they can improve and, over time, how much they have improved.

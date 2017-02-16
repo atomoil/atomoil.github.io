@@ -6,6 +6,7 @@ categories: [development, ios]
 
 ---
 
+# iPhone Screen Sizes
 
 
 Device | iPhone 2G, 3G, 3GS | iPhone 4, 4s |	iPhone 5, 5s |	iPhone 6 |	iPhone 6 plus 
