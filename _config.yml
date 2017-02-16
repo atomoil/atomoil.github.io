@@ -3,4 +3,4 @@ title:       Adam's notes
 baseurl:     "http://atomoil.github.io/"
 url:         "http://atomoil.github.io/"
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
