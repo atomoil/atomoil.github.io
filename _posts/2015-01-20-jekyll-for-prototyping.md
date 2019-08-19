@@ -16,7 +16,7 @@ Recently I've been working with a few clients to develop ideas which could becom
   <p>
     Tell me and I forget, teach me and I may remember, involve me and I learn
   </p>
-  <footer><cite title="Benjamin Franklyn">Benjamin Franklyn</cite></footer>
+  <p><cite title="Benjamin Franklyn">Benjamin Franklyn</cite></p>
 </blockquote>
 
 ### Sounds good, how do I do this myself?
