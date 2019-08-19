@@ -1,13 +1,10 @@
 ---
-title:      iPhone Screen Sizes
+title:      iPhone Screen Sizes (2015)
 date:       2015-02-18 09:30:00
 summary:    A table of iPhone screen sizes in points and pixels
 categories: [development, ios]
 
 ---
-
-# iPhone Screen Sizes
-
 
 Device | iPhone 2G, 3G, 3GS | iPhone 4, 4s |	iPhone 5, 5s |	iPhone 6 |	iPhone 6 plus 
 --- | --- | --- | --- | --- | ---
