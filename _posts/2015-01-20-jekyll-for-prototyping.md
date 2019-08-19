@@ -6,7 +6,6 @@ categories: prototyping
 
 ---
 
-# Jekyll For Prototyping
 
 Hello.
 
