@@ -1,12 +1,12 @@
 ---
-title:      Typescript Setup
+title:      Typescript for Browser Development
 date:       2020-06-19 13:50:00
 summary:    Setting up typescript and webpack for browser development
 categories: [development, web, node, browser]
 
 ---
 
-Follow these steps to setup a project:
+Follow these steps to setup a typescript browser project:
 
 * [Webpack Getting Started](https://webpack.js.org/guides/getting-started/)
 * [Webpack Typescript Setup](https://webpack.js.org/guides/typescript/)
