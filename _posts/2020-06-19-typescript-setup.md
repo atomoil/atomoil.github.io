@@ -72,3 +72,13 @@ module.exports = {
   }
 };
 ```
+
+## Using Jest with typescript
+
+[use `ts-jest`](https://github.com/kulshekhar/ts-jest)
+
+aka
+
+* `npm i -D jest ts-jest @types/jest`
+* `npx ts-jest config:init` (to create jest config)
+
