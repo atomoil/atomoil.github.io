@@ -35,15 +35,19 @@ tsconfig.json:
 
 ```
 {
-    "compilerOptions": {
-        "rootDir": "./src/",
-        "outDir": "./dist/",
-        "sourceMap": true,
-        "noImplicitAny": true,
-        "module": "es6",
-        "target": "es5",
-        "jsx": "react",
-        "allowJs": true
-    }
+  "compilerOptions": {
+    "rootDir": "./src/",
+    "outDir": "./dist/",
+    "sourceMap": false,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es2016",
+    "jsx": "react",
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strict": true
+  }
 }
 ```
