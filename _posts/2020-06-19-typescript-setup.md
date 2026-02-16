@@ -2,7 +2,9 @@
 title:      Typescript for Browser Development
 date:       2020-06-19 13:50:00
 summary:    Setting up typescript and webpack for browser development
-categories: [development, web, node, browser]
+categories: [web]
+tags:       [development, web, node, browser, typescript]
+author:     atomoil
 
 ---
 

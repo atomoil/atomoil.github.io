@@ -2,7 +2,9 @@
 title:      Typescript for Server Development
 date:       2020-09-18 13:50:00
 summary:    Setting up typescript and webpack for browser development
-categories: [development, web, node, browser]
+categories: [server]
+tags:       [development, web, node, typescript, browser]
+author:		atomoil
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 title:      Building iOS & Android apps with RN Expo
 date:       2026-02-16 12:30:00
-categories: [development, mobile, node, react-native]
-author: 	atomoil
+categories: [mobile]
+tags:       [development, mobile, node, typescript, react-native, ios, android]
+author:     atomoil
 
 ---
 

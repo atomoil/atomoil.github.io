@@ -2,7 +2,8 @@
 title:      iPhone Screen Sizes (2015)
 date:       2015-02-18 09:30:00
 summary:    A table of iPhone screen sizes in points and pixels
-categories: [development, ios]
+categories: [mobile]
+tags:       [development, ios, mobile]
 
 ---
 

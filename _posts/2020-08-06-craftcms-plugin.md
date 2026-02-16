@@ -2,7 +2,9 @@
 title:      CraftCMS Plugins
 date:       2020-06-29 14:14:00
 summary:    Creating a plugin for use with CraftCMS
-categories: [development, web, craftcms]
+categories: [web]
+tags:       [development, web, craftcms, php]
+author:     atomoil
 
 ---
 
