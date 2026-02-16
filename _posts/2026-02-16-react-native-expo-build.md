@@ -17,7 +17,7 @@ package.json (snip):
     "reset": "expo prebuild --clean",
     "ios:release": "expo prebuild && cd ios && pod install && cd .. && xed ios && echo '⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\nNow run the release build in Xcode\n\n⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️'",
     "android:aab": "expo prebuild && cd android && ./gradlew clean && ./gradlew bundleRelease && cd ../ && open android/app/build/outputs/bundle/release",
-    "android:apk": "expo prebuild && cd android && ./gradlew assembleRelease"
+    "android:apk": "expo prebuild && cd android && ./gradlew assembleRelease && cd ../ && open android/app/build/outputs/apk/release"
   }
 
 ```
